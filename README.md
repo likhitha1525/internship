@@ -1,4 +1,4 @@
-# java bacics
+# java basics
 Java basic conceps like history,about java
 Java programming language was originally developed by Sun Microsystems
 – by James Gosling
